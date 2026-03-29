@@ -34,7 +34,7 @@ We believe in giving back to the developer community. Our open source projects a
 
 Interested in consulting, custom development, or enterprise licensing? Reach out:
 
-- 🌐 [codecanon.dev](https://codecanon.dev)
+- 🌐 [codecanon-llc.github.io](https://codecanon-llc.github.io/)
 
 ---
 
