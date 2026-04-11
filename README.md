@@ -25,6 +25,7 @@ We maintain a mix of **open source** and **premium** offerings, committed to pus
 | Project | Description | Type |
 |---|---|---|
 | [`@codecanon/waraq`](https://github.com/CodeCanon-LLC/codecanon-waraq) | A shadcn designer library for building Canva-like editors. | Premium |
+| [`@codecanon/nuska`](https://github.com/CodeCanon-LLC/codecanon-nuska) | Headless git-like version control (commit, branch, diff, merge, PR) for any datasource | Premium |
 
 ## Open Source
 
