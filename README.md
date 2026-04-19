@@ -26,6 +26,7 @@ We maintain a mix of **open source** and **premium** offerings, committed to pus
 |---|---|---|
 | [`@codecanon/waraq`](https://github.com/CodeCanon-LLC/codecanon-waraq) | A shadcn designer library for building Canva-like editors. | Premium |
 | [`@codecanon/nuska`](https://github.com/CodeCanon-LLC/codecanon-nuska) | Headless git-like version control (commit, branch, diff, merge, PR) for any datasource | Premium |
+| [`@codecanon/next-presets`](https://github.com/CodeCanon-LLC/codecanon-next-presets) | 50+ shadcn design-system presets with light/dark mode support for React apps | Free |
 
 ## Open Source
 
